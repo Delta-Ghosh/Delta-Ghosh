@@ -1,7 +1,7 @@
 <!-- README.md -->
 
 <h1 align="center">Hi there 👋, I'm Sarthak </h1>
-<h3 align="center">🚀 Aspiring DevOps Engineer | Cloud Enthusiast | Automation Addict</h3>
+<h3 align="center">🚀 Aspiring Data Engineer | Cloud Enthusiast | Automation Addict</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="DevOps Animation" />
@@ -11,27 +11,24 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working toward becoming a **DevOps Engineer**
-- 🌱 Exploring **AWS, Docker, Kubernetes, Terraform, and Ansible**
+- 🔭 I’m currently working toward becoming a **Data Engineer**
+- 🌱 Exploring **AWS services, Docker, Kubernetes**
 - ⚙️ Love working with Linux, shell scripting, Python & cloud infrastructure
-- 📚 Always learning something new in DevOps, automation, and CI/CD
+- 📚 Always learning something new.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🌐 Cloud & Infra
+### 🌐 Cloud 
 <p>
   <img align="middle" alt="Coding" width="122" src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png"/>
   <img align="middle" alt="Coding" width="118" src="https://miro.medium.com/v2/resize:fit:1400/0*m9JK79JYY6vlpxLz.gif"/>
-  <img align="middle" alt="Coding" width="80" src="https://static-00.iconduck.com/assets.00/terraform-icon-1803x2048-hodrzd3t.png"/>
-  <img align="middle" alt="Coding" width="100" src="https://img.icons8.com/?size=512&id=iGCCE2iEmh2u&format=png"/>
 </p>
 
-### 🐳 Containers & Orchestration
+### 🐳 Containers 
 <p>
   <img align="middle" alt="Coding" width="100" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png"/>
-  <img align="middle" alt="Coding" width="100" src="https://static-00.iconduck.com/assets.00/kubernetes-icon-2048x1995-r1q3f8n7.png"/>
 </p>
 
 ### 🧠 OS, Languages & Tools
@@ -42,11 +39,10 @@
   <img align="middle" alt="Coding" width="140" src="https://voiptrainers.com/wp-content/uploads/2024/09/Wireshark.webp"/>
 </p>
 
-### 🎨 Front-End 
+### 🎨 Framework
 <p>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img align="middle" alt="Coding" width="150" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img align="middle" alt="Coding" width="200" src="https://blog.appseed.us/content/images/2021/08/icons-flask-x500w.png"/>
 </p>
 
 ---
@@ -54,8 +50,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Delta-Ghosh&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delta-Ghosh&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
