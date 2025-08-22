@@ -36,6 +36,7 @@
   <img align="middle" alt="Coding" width="130" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681322678953/e53254bd-abb3-4ec3-8ca0-b35f01e9026f.gif"/>
   <img align="middle" alt="Coding" width="90" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png"/>
   <img align="middle" alt="Coding" width="120" src="https://i0.wp.com/junilearning.com/wp-content/uploads/2020/06/python-programming-language.webp?fit=800%2C800&ssl=1"/>
+  <img align="middle" alt="Coding" width="120" src="https://png.pngtree.com/png-clipart/20190630/original/pngtree-yaml-file-document-icon-png-image_4177017.jpg"/>
   <img align="middle" alt="Coding" width="140" src="https://voiptrainers.com/wp-content/uploads/2024/09/Wireshark.webp"/>
 </p>
 
