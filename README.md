@@ -43,7 +43,7 @@
 ### 🎨 Framework
 <p>
   <img align="middle" alt="Coding" width="150" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="middle" alt="Coding" width="200" src="https://blog.appseed.us/content/images/2021/08/icons-flask-x500w.png"/>
+  <img align="middle" alt="Coding" width="90" src="https://avatars.githubusercontent.com/u/156354296?s=280&v=4"/>
 </p>
 
 ---
