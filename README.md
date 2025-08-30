@@ -24,7 +24,7 @@
 <p>
   <img align="middle" alt="Coding" width="50" src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png"/>
   <img align="middle" alt="Coding" width="118" src="https://miro.medium.com/v2/resize:fit:1400/0*m9JK79JYY6vlpxLz.gif"/>
-    <img align="middle" alt="Coding" width="140" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png"/>
+    <img align="middle" alt="Coding" width="100" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png"/>
 </p>
 
 ### Databases & Monitoring  
