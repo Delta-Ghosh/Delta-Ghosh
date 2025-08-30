@@ -9,16 +9,18 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
-- 🔭 I’m currently working toward becoming a **Data Engineer**
-- 🌱 Exploring **AWS services, Docker, Kubernetes**
-- ⚙️ Love working with Linux, shell scripting, Python & cloud infrastructure
-- 📚 Always learning something new.
+-  I’m currently working toward becoming a **Data Engineer**
+-  Exploring **AWS services, Docker images.**
+-  Love working with Linux, shell scripting, Python & cloud infrastructure.
+-  Love to explore in network and automation.
+-  Know the basic **api** handling.
+-  Always learning something new.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Cloud & Containers
 <p>
@@ -34,7 +36,7 @@
     <img align="middle" alt="Coding" width="80" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVaIpb01yBnDIIAUaHDdx89G0rhmZ9WRALdg&s"/>
 </p>
 
-### 🧠 OS, Languages & Networking Tools
+###  OS, Languages & Networking Tools
 <p>
   <img align="middle" alt="Coding" width="110" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681322678953/e53254bd-abb3-4ec3-8ca0-b35f01e9026f.gif"/>
   <img align="middle" alt="Coding" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png"/>
@@ -43,7 +45,7 @@
   <img align="middle" alt="Coding" width="120" src="https://voiptrainers.com/wp-content/uploads/2024/09/Wireshark.webp"/>
 </p>
 
-### 🎨 Framework
+###  Framework
 <p>
   <img align="middle" alt="Coding" width="120" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img align="middle" alt="Coding" width="70" src="https://avatars.githubusercontent.com/u/156354296?s=280&v=4"/>
