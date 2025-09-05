@@ -33,7 +33,8 @@
 <p>
   <img align="middle" alt="Coding" width="70" src="https://sc.filehippo.net/images/t_app-icon-l/p/917c77e8-96d1-11e6-8453-00163ed833e7/4171024085/mysql-com-logo"/>
   <img align="middle" alt="Coding" width="80" src="https://images.icon-icons.com/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png"/>
-    <img align="middle" alt="Coding" width="80" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVaIpb01yBnDIIAUaHDdx89G0rhmZ9WRALdg&s"/>
+  <img align="middle" alt="Coding" width="80" src="https://sahilsehwag.wordpress.com/wp-content/uploads/2017/10/mongopython.png"/>
+  <img align="middle" alt="Coding" width="80" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVaIpb01yBnDIIAUaHDdx89G0rhmZ9WRALdg&s"/>
 </p>
 
 ###  OS, Languages & Networking Tools
