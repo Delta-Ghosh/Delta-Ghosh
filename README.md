@@ -32,7 +32,7 @@ I'm a passionate Software Developer with a strong foundation in full-stack devel
 
 [![Delta-Ghosh's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Delta-Ghosh&show_icons=true&theme=radium)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Delta-Ghosh&layout=compact&theme=radium&langs_count=8)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Delta-Ghosh&layout=compact&theme=radium&langs_count=10&hide_progress=false)
 
 
 ---
