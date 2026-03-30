@@ -2,7 +2,7 @@
 
 I'm a passionate Software Developer with a strong foundation in full-stack development, cloud computing, and DevOps practices. I love building scalable applications and exploring new technologies.
 
-## 🛠️ Tech Stack & Skills
+##  Tech Stack & Skills
 
 ### **Languages**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -31,8 +31,6 @@ I'm a passionate Software Developer with a strong foundation in full-stack devel
 ## 📈 GitHub Stats
 
 [![Delta-Ghosh's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Delta-Ghosh&show_icons=true&theme=radium)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Delta-Ghosh&layout=compact&theme=radium&langs_count=10&include_all_commits=true)
 
 
 ---
