@@ -55,14 +55,14 @@
 
 ---
 ### 📊 GitHub Stats  
-![BABA's GitHub stats](https://github-readme-stats.vercel.app/api?username=Delta-Ghosh&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Delta-Ghosh&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=86400)
 
 ### 📂 Top Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Delta-Ghosh&layout=compact&langs_count=10&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Delta-Ghosh&layout=compact&langs_count=10&theme=tokyonight&cache_seconds=86400)
 
 ### 🥧 Languages Pie Chart  
-![BABA's GitHub Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Delta-Ghosh&theme=tokyonight)  
-![BABA's Commit Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Delta-Ghosh&theme=tokyonight)
+![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Delta-Ghosh&theme=tokyonight)
+![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Delta-Ghosh&theme=tokyonight)
 
 ---
 
